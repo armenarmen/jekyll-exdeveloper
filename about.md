@@ -25,6 +25,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	          focus:border-gray-500 focus:bg-white focus:ring-0
 	        "
 	        placeholder=""
+	        name="name"
 	      />
 	    </label>
 	    <label class="block">
@@ -41,6 +42,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	          focus:border-gray-500 focus:bg-white focus:ring-0
 	        "
 	        placeholder="john@example.com"
+	        name="email"
 	      />
 	    </label>
 	    <label class="block">
@@ -56,6 +58,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	          border-transparent
 	          focus:border-gray-500 focus:bg-white focus:ring-0
 	        "
+	        name="date"
 	      />
 	    </label>
 	    <label class="block">
@@ -70,6 +73,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	          border-transparent
 	          focus:border-gray-500 focus:bg-white focus:ring-0
 	        "
+	        name="eventType"
 	      >
 	        <option>Corporate event</option>
 	        <option>Wedding</option>
@@ -90,6 +94,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	          focus:border-gray-500 focus:bg-white focus:ring-0
 	        "
 	        rows="3"
+	        name="details"
 	      ></textarea>
 	    </label>
 	    <div class="block">
@@ -106,6 +111,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	                text-gray-700
 	                focus:ring-1 focus:ring-offset-2 focus:ring-gray-500
 	              "
+	              name="email_me"
 	            />
 	            <span class="ml-2">Email me news and special offers</span>
 	          </label>
