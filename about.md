@@ -112,6 +112,11 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	        </div>
 	      </div>
 	    </div>
+	    <div class="block">
+	      <div class="mt-2">
+	      	<button type="submit">Send</button>
+	      </div>
+	    </div>
 	  </div>
 	</div>
 </form>
