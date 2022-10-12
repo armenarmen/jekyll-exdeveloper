@@ -214,7 +214,7 @@ image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 	    </div>
 	    <div class="block">
 	      <div class="mt-2">
-	      	<button type="submit" class="mt-auto bg-violet-800 bg-opacity-50 hover:bg-opacity-75 transition-colors duration-200 rounded-xl font-semibold py-2 px-4 inline-flex">Send</button>
+	      	<button type="submit" class="mt-auto bg-violet-800 bg-opacity-50 hover:bg-opacity-75 transition-colors duration-200 rounded-xl font-semibold py-2 px-4 inline-flex">Submit</button>
 	      </div>
 	    </div>
 	  </div>
